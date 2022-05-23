@@ -2,7 +2,7 @@
 <div align="center">
   <h1 align="center">D-Med</h1>
   <p align="center">
-    <a href="https://priyam-anand.github.io/D-Med"/>View Demo</a>
+    <a href="http://kushagrasingh772.io/DecentraMed"/>View Demo</a>
   </p>
 </div>
 
@@ -115,7 +115,7 @@ The application offers a variety of services. Some of them open for the public t
 6. You are all setup to use D-Med. Head over to the public dashboard in the application to connect to the blockchain using your Meta Mask wallet and try out the various features.
 (HINT : Try Hospital ID 1 to 4 to get their details)
 
-**( IF YOU WANT TO GET THE ROLE OF ADMIN, HOSPITAL OR ORGANIZATION TO EXPLORE MORE ABOUT D-MED CONTACT ME AT priyam27.anand@gmail.com AND DON'T FORGET TO SEND YOUR ETHEREUM ADDRESS )** 
+**( IF YOU WANT TO GET THE ROLE OF ADMIN, HOSPITAL OR ORGANIZATION TO EXPLORE MORE ABOUT D-MED CONTACT ME AT kushagrasingh772@gmail.com AND DON'T FORGET TO SEND YOUR ETHEREUM ADDRESS )** 
 <!-- GETTING STARTED -->
 <a id="getting-started"></a>
 
@@ -125,7 +125,7 @@ _To download the source code and on your machine and get it up and running, foll
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/priyam-anand/D-Med.git
+   git clone https://github.com/kushagrasingh772/DecentraMed.git
    ```
 2. Install NPM packages
    ```sh
@@ -146,7 +146,7 @@ _To download the source code and on your machine and get it up and running, foll
 ## Made By
 <table>
   <tbody><tr>
-    <td align="center"><a href="https://github.com/priyam-anand"><img src="https://avatars.githubusercontent.com/priyam-anand" width="100px;"><br><sub><b>Priyam Anand</b></sub></a><br/></a></td>
+    <td align="center"><a href="https://github.com/kushagrasingh772"><img src="https://avatars.githubusercontent.com/kushagrasingh772" width="100px;"><br><sub><b>Kushagra Singh</b></sub></a><br/></a></td>
     </td>
   </tbody></tr>
 </table>
