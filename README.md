@@ -2,7 +2,7 @@
 <div align="center">
   <h1 align="center">D-Med</h1>
   <p align="center">
-    <a href="http://kushagrasingh772.io/DecentraMed"/>View Demo</a>
+    <a href="https://kushagrasingh772.github.io/DecentraMed/">View Demo</a>
   </p>
 </div>
 
