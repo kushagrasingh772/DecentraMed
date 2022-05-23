@@ -1,0 +1,19 @@
+  #hero {
+    width: 100%;
+    height: 90vh;
+    margin-bottom: -200px;
+    z-index: -1;
+  }
+  #hero h1 {
+    margin: 0;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 56px;
+    text-transform: uppercase;
+    color: #2c4964;
+  }
+  #hero h2 {
+    color: #2c4964;
+    margin: 10px 0 0 0;
+    font-size: 20px;
+  }
