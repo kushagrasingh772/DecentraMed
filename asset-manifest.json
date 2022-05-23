@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/D-Med/static/css/main.1b421565.chunk.css",
-    "main.js": "/D-Med/static/js/main.c20a6031.chunk.js",
-    "main.js.map": "/D-Med/static/js/main.c20a6031.chunk.js.map",
-    "runtime-main.js": "/D-Med/static/js/runtime-main.3d2d6b61.js",
-    "runtime-main.js.map": "/D-Med/static/js/runtime-main.3d2d6b61.js.map",
-    "static/css/2.0a9ec390.chunk.css": "/D-Med/static/css/2.0a9ec390.chunk.css",
-    "static/js/2.b4e32186.chunk.js": "/D-Med/static/js/2.b4e32186.chunk.js",
-    "static/js/2.b4e32186.chunk.js.map": "/D-Med/static/js/2.b4e32186.chunk.js.map",
-    "index.html": "/D-Med/index.html",
-    "static/css/2.0a9ec390.chunk.css.map": "/D-Med/static/css/2.0a9ec390.chunk.css.map",
-    "static/css/main.1b421565.chunk.css.map": "/D-Med/static/css/main.1b421565.chunk.css.map",
-    "static/js/2.b4e32186.chunk.js.LICENSE.txt": "/D-Med/static/js/2.b4e32186.chunk.js.LICENSE.txt",
-    "static/media/Problem.css": "/D-Med/static/media/centralized.9528ca96.jpg",
-    "static/media/Solution.css": "/D-Med/static/media/dencetralized.cf8ce6e7.jpg"
+    "main.css": "/DecentraMed/static/css/main.832361da.chunk.css",
+    "main.js": "/DecentraMed/static/js/main.c20a6031.chunk.js",
+    "main.js.map": "/DecentraMed/static/js/main.c20a6031.chunk.js.map",
+    "runtime-main.js": "/DecentraMed/static/js/runtime-main.9df3de49.js",
+    "runtime-main.js.map": "/DecentraMed/static/js/runtime-main.9df3de49.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/DecentraMed/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.612d7cab.chunk.js": "/DecentraMed/static/js/2.612d7cab.chunk.js",
+    "static/js/2.612d7cab.chunk.js.map": "/DecentraMed/static/js/2.612d7cab.chunk.js.map",
+    "index.html": "/DecentraMed/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/DecentraMed/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.832361da.chunk.css.map": "/DecentraMed/static/css/main.832361da.chunk.css.map",
+    "static/js/2.612d7cab.chunk.js.LICENSE.txt": "/DecentraMed/static/js/2.612d7cab.chunk.js.LICENSE.txt",
+    "static/media/Problem.css": "/DecentraMed/static/media/centralized.9528ca96.jpg",
+    "static/media/Solution.css": "/DecentraMed/static/media/dencetralized.cf8ce6e7.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3d2d6b61.js",
+    "static/js/runtime-main.9df3de49.js",
     "static/css/2.0a9ec390.chunk.css",
-    "static/js/2.b4e32186.chunk.js",
-    "static/css/main.1b421565.chunk.css",
+    "static/js/2.612d7cab.chunk.js",
+    "static/css/main.832361da.chunk.css",
     "static/js/main.c20a6031.chunk.js"
   ]
 }
