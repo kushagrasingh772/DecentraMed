@@ -20,7 +20,7 @@
     "web-vitals": "^1.1.2",
     "web3": "^1.6.1"
   },
-  "homepage": "http://kushagrasingh772.io/D-Med",
+  "homepage": "http://kushagrasingh772.io/DecentraMed",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
