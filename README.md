@@ -1,6 +1,6 @@
 <!-- PROJECT NAME -->
 <div align="center">
-  <h1 align="center">D-Med</h1>
+  <h1 align="center">Decentra Med</h1>
   <p align="center">
     <a href="https://kushagrasingh772.github.io/DecentraMed/">View Demo</a>
   </p>
@@ -40,11 +40,11 @@
 
 ## About The Project
 
-D-Med is a decentralized solution for Electronic Medical Records sharing systems (EMR). It uses Ethereum network and IPFS technology at its core, giving you complete control of your data. Only authorized people and registerd Medical Institues can acces your records.
+Decentra Med is a decentralized solution for Electronic Medical Records sharing systems (EMR). It uses Ethereum network and IPFS technology at its core, giving you complete control of your data. Only authorized people and registerd Medical Institues can acces your records.
 
-Why Choose D-Med:
+Why Choose Decentra Med:
 
-- The entire system of D-Med is based on blockchain technology. Hence it is practically un hackable
+- The entire system of Decentra Med is based on blockchain technology. Hence it is practically un hackable
 - There is no actual person behind the organization. It is a smart contract, making it transparent to the public
 - All the media is stored on InterPlanetary File System (IPFS) network. Making it completely safe and private.
 
@@ -76,7 +76,7 @@ It also takes time to demo EHR products and negotiate with EHR system vendors to
 <a id="the-solution"></a>
 
 ## The Solution
-D-Med provides a decentralized easy to use Electronic Medical Record system(EMR). It is a free to use web application providing a feature rich as well as interactive UI making it easy to use.
+Decentra Med provides a decentralized easy to use Electronic Medical Record system(EMR). It is a free to use web application providing a feature rich as well as interactive UI making it easy to use.
 
 - **Minimal Security Risks**
 As previously mentioned. We use Ethereum Network for our computation making it very safe and secure. There cannot be a single point of failure.
